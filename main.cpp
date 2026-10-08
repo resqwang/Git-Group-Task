@@ -1,4 +1,4 @@
 #include <iostream>
 void printMessage() {
-    std::cout << "Conflict Start" << std::endl;
+    std::cout << "Hello from B" << std::endl;
 }
